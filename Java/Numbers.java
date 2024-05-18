@@ -21,5 +21,5 @@ public class Numbers {
  * Loop definition is contained inside of curly braces, and the boolean expression that is 
  * contained inside of parentheses.
  * print(...) without the 'ln' means that a new line will not be included
-
-*/
+ * 
+ */
