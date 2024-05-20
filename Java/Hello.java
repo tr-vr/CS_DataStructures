@@ -1,5 +1,4 @@
-package Java.HelloApp;
-
+package Java;
 /**
  * Hello
  */
